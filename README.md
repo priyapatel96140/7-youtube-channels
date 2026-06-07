@@ -56,7 +56,7 @@ Choose the option below that works best for you:
 
 Priya Patel  
 Aspiring Data Analyst  
-Email: yourmail@gmail.com    
+Email: patelpriya18217@gmail.com    
 GitHub: [priyapatel96140](https://github.com/priyapatel96140)  
 
 If you like this project, feel free to give it a star!
