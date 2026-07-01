@@ -40,9 +40,8 @@ The notebook walks through data profiling and answers specific performance-drive
 
 ## How to Run This Project
 
-Choose the option below that works best for you:
 
-### Option 1: The Quick Way (No Git Required)
+###  The Quick Way (No Git Required)
 1. Click the green **Code** button at the top right of this GitHub page.
 2. Click **Download ZIP** and unzip the files into a folder on your computer.
 3. Move your dataset (`7_top_5000_youtube_channels.csv`) into the same folder if it isn't already there.
